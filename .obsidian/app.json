@@ -4,5 +4,12 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "readableLineLength": false
 }

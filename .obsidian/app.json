@@ -11,5 +11,6 @@
   "spellcheckLanguages": [
     "en-US"
   ],
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "./"
 }

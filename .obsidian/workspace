@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fa06fe8d68bf5bb6",
+        "id": "e71f9fb9a3791c26",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/5_Macros_and_Global_variables.md",
+            "file": "home/4_Resource_itineraries/coding_ninjas_dsa/3_Recursion_1/2_Recursion_and_PMI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/5_Macros_and_Global_variables.md",
+                "file": "home/4_Resource_itineraries/coding_ninjas_dsa/3_Recursion_1/2_Recursion_and_PMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa06fe8d68bf5bb6",
+  "active": "e71f9fb9a3791c26",
   "lastOpenFiles": [
-    "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/5_Macros_and_Global_variables.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/4_Dynamic_Allocation_of_2D_Array.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/2_Reference_and_Pass_by_Reference.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/3_Dynamic_Memory_1Allocation.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/2_Pointer_Arithmetic.md",
-    "assets/Preprocessor-In-C.png",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/4_Characters_and_Pointers.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/1_Introduction_to_pointers.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/1_Address_Typecasting.md",
-    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/3_Array_and_Pointers.md"
+    "home/4_Resource_itineraries/coding_ninjas_dsa/3_Recursion_1/2_Recursion_and_PMI.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/3_Recursion_1/3_Fibonacci Number.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/3_Recursion_1/4_Recursion_and_Arrays.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/3_Recursion_1/1_Intro_to_Recursion.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/2_Dynamic_Allocation/7_Constant_variables.md",
+    "Untitled.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/Untitled.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/6_Double_Pointers.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/5_Pointers_and_Functions.md",
+    "home/4_Resource_itineraries/coding_ninjas_dsa/1_Pointers/4_Characters_and_Pointers.md"
   ]
 }

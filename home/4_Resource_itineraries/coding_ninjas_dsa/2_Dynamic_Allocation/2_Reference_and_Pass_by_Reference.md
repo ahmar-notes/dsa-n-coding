@@ -1,6 +1,6 @@
 # 2. Reference and Pass by Reference
 
-Reference is a type variable who does not have its own memory allocated. It refers or have the same address of a variable in the symbol table. 
+Reference is a type of variable who does not have its own memory allocated. It refers or have the same address of a variable in the symbol table, i.e. like having two names for a single person.
 <ins>This result in using memory efficiently.</ins>
 A reference variable must be assign with the desired variable at initializing (else error).
 

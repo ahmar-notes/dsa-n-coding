@@ -37,6 +37,6 @@ But there is a little special syntax to delete an array:
 delete [] variable_name;
 ```
 
-*Note:* In above syntax, the pointer in **not** deleted, instead only the variable in heap is being deleted. And if not deleted, and the memory limit is reached, the program/app might crash.
+**Note:** In above syntax, the pointer in **not** deleted, instead only the variable in heap is being deleted. And if not deleted, and the memory limit is reached, the program/app might crash.
 
 
